@@ -6,4 +6,4 @@ categories: [analysis, R]
 image: "wp3155700.jpg"
 ---
 
-This was a project using Gapminder inbuilt r data. You can find the project [here]("Gapminder_dash/"){target="_blank"}
+This was a project using Gapminder inbuilt r data. You can find the project [here](Gapminder_dash/){target="_blank"}

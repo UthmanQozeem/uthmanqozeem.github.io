@@ -6,4 +6,4 @@ categories: [code, analysis, R]
 image: "image.jpg"
 ---
 
-This was a project using SCD and malaria data. You can find the project [here]("SCD_MALARIA_REPORT/"){target="_blank"}
+This was a project using SCD and malaria data. You can find the project [here](SCD_MALARIA_REPORT/){target="_blank"}
