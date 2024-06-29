@@ -1,0 +1,19 @@
+---
+title: "Uthman Qozeem"
+image: myimage.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/QosmoAlhaji?t=nX3ZuJHNxM41I6agJXH48Q&s=09
+    - icon: linkedin
+      text: LinkedIn
+      href: https://ng.linkedin.com/in/uthman-qozeem-563b66185
+    - icon: github
+      text: Github
+      href: https://github.com/UthmanQozeem
+
+---
+
+Dynamic Researcher and proficient Data Analyst with expertise in R programming, specializing in health sciences. Proven track record in data analysis, quality assurance, and impactful research with strong educational and practical experience.

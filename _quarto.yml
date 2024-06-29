@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Uthman Qozeem O."
+  navbar:
+    left: 
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/UthmanQozeem
+      - icon: twitter
+        href: https://x.com/QosmoAlhaji?t=nX3ZuJHNxM41I6agJXH48Q&s=09
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
