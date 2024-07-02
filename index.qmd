@@ -12,8 +12,8 @@ about:
       href: https://ng.linkedin.com/in/uthman-qozeem-563b66185
     - icon: github
       text: Github
-      href: https://github.com/UthmanQozeem
+      href: https://github.com
 
 ---
 
-Dynamic Researcher and proficient Data Analyst with expertise in R programming, specializing in health sciences. Proven track record in data analysis, quality assurance, and impactful research with strong educational and practical experience.
+A Dynamic Researcher, Quality Assurance and proficient Data Analyst with expertise in R programming, Python, SQL, Power BI, and Tableau. Proven track record in Data analysis, Quality Assurance, and impactful health research with strong educational and practical experience.

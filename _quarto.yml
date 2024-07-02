@@ -14,7 +14,7 @@ website:
         file: cv.qmd
     right:
       - icon: github
-        href: https://github.com/UthmanQozeem
+        href: https://github.com
       - icon: twitter
         href: https://x.com/QosmoAlhaji?t=nX3ZuJHNxM41I6agJXH48Q&s=09
 format:
