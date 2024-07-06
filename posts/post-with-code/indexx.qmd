@@ -1,9 +1,9 @@
 ---
-title: "Analysis of Gapminder 2007"
+title: "Gapminder_2007 Analysis Report"
 author: "Uthman Qozeem"
-date: "2024-06-25"
+date: "2024-06-24"
 categories: [analysis, R]
-image: "wp3155700.jpg"
+image: "image.jpg"
 ---
 
-This was a project using Gapminder inbuilt r data. You can find the project [here](https://uthmanqozeem.github.io/Gapminder_dash/){target="_blank"}
+This was a project using Gapminder, which is an inbuilt in r. You can find the project [here](https://uthmanqozeem.github.io/Gapminder_dash/#){target="_blank"}

@@ -3,7 +3,7 @@ title: "Analysis of SCD Data"
 author: "Uthman Qozeem"
 date: "2024-06-26"
 categories: [code, analysis, R]
-image: "image.jpg"
+image: "wp3155700.jpg"
 ---
 
 This was a project using SCD and malaria data. You can find the project [here](https://uthmanqozeem.github.io/SCD_MALARIA_REPORT/){target="_blank"}
