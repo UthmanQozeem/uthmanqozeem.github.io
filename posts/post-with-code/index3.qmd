@@ -1,0 +1,9 @@
+---
+title: "Analysis of HIV Data"
+author: "Uthman Qozeem"
+date: "2026-01-25"
+categories: [code, analysis, R]
+image: "OIP.jpg"
+---
+
+This was a project using HIV data. You can find the project [here](https://uthmanqozeem.github.io/HIV_Analysis_report/){target="_blank"}

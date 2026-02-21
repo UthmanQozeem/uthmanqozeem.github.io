@@ -1,0 +1,9 @@
+---
+title: "My Professional Diploma Project"
+author: "Uthman Qozeem"
+date: "2026-02-22"
+categories: [analysis, R]
+image: "grad-analytics.jpg"
+---
+
+This was my final capstone project for the professional diploma certificate in data analytics sponsored by the World Bank_Baze University. You can find the project [here](https://uthmanqozeem.github.io/FINAL_CAPSTONE_PROJECT/){target="_blank"}

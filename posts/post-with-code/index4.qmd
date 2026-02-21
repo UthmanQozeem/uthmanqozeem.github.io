@@ -1,0 +1,9 @@
+---
+title: "Tuberculosis Analysis Report"
+author: "Uthman Qozeem"
+date: "2026-01-08"
+categories: [analysis, R]
+image: "TB.jpg"
+---
+
+This was a project using Tuberculosis data. You can find the project [here](https://uthmanqozeem.github.io/Tuberculosis_analysis/){target="_blank"}

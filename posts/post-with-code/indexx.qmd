@@ -1,0 +1,9 @@
+---
+title: "Gapminder_2007 Analysis Report"
+author: "Uthman Qozeem"
+date: "2025-12-30"
+categories: [analysis, R]
+image: "image.jpg"
+---
+
+This was a project using Gapminder, which is an inbuilt in r. You can find the project [here](https://uthmanqozeem.github.io/Gapminder_dash/#){target="_blank"}

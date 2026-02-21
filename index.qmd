@@ -1,0 +1,21 @@
+---
+title: "Uthman Qozeem O. <span style='font-style: italic; font-size: 0.4em;'>BSc, MSc, PDDA, PMP</span>"
+image: myimage.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/QosmoAlhaji?t=nX3ZuJHNxM41I6agJXH48Q&s=09
+    - icon: linkedin
+      text: LinkedIn
+      href: https://ng.linkedin.com/in/uthman-qozeem-563b66185
+    - icon: github
+      text: Github
+      href: https://github.com/UthmanQozeem
+
+---
+
+Data Engineer & Digital Health QA Lead|| M&E ||Capacity Development Expert
+
+Recognized for ensuring data integrity, translating complex business requirements into scalable technical solutions, and delivering high-impact data systems that support strategic decision-making.
