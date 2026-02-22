@@ -1,6 +1,6 @@
 ---
 title: "Uthman Qozeem O. <span style='font-style: italic; font-size: 0.4em;'>BSc, MSc, PDDA, PMP</span>"
-image: myimage.jpeg
+image: myimage.jpg
 about:
   template: jolla
   links:
