@@ -16,6 +16,6 @@ about:
 
 ---
 
-Data Engineer & Digital Health QA Lead|| M&E ||Capacity Development Expert
+Data Engineer & Quality Assurance Lead|| M&E ||Capacity Development Expert
 
 Recognized for ensuring data integrity, translating complex business requirements into scalable technical solutions, and delivering high-impact data systems that support strategic decision-making.
